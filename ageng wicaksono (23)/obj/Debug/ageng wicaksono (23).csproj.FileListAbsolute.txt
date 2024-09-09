@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ageng wicaksono (23)\bin\Debug\ageng wicaksono (23).exe.config
+C:\Users\user\source\repos\ageng wicaksono (23)\bin\Debug\ageng wicaksono (23).exe
+C:\Users\user\source\repos\ageng wicaksono (23)\bin\Debug\ageng wicaksono (23).pdb
+C:\Users\user\source\repos\ageng wicaksono (23)\obj\Debug\ageng wicaksono (23).csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ageng wicaksono (23)\obj\Debug\ageng wicaksono (23).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ageng wicaksono (23)\obj\Debug\ageng wicaksono (23).exe
+C:\Users\user\source\repos\ageng wicaksono (23)\obj\Debug\ageng wicaksono (23).pdb
